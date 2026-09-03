@@ -1,4 +1,4 @@
-# Experimental-Psycholinguistics-hello-Ethan-
+# Experimental-Psycholinguistics-hello-Ethan
 ## Subsection
 This is my _first_ markdown file
 markdown is a way of formatting text??

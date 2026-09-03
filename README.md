@@ -16,4 +16,5 @@ Here is a list
 it is 10:51, it will be time for snacks soon
 
 
-after connecting to github we can push and pull stuff between the two places ("add" and "commit"
+after connecting to github we can push and pull stuff between the two places ("add" and "commit" and "push")
+    if you make changes on github you have to "git pull" them while on ucloud

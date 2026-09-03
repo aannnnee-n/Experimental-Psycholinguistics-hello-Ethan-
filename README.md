@@ -14,3 +14,6 @@ Here is a list
 - item 3
 
 it is 10:51, it will be time for snacks soon
+
+
+after connecting to github we can push and pull stuff between the two places ("add" and "commit"
